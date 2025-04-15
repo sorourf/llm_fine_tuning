@@ -123,6 +123,7 @@ Reduces model precision to save memory and speed up training.
 ### FP16 (Half Precision)
 - From 32-bit to 16-bit floats
 ![Quantization Types Placeholder](./image/bf16.webp)
+<img src="./image/bf16.web" alt="LoRA Architecture" width="400"/>
 ### BF16 (bfloat16)
 - Truncated version of FP32 to preserve range with reduced precision
 ![Quantization Types Placeholder](./image/fp16.webp)
