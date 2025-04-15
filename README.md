@@ -122,10 +122,10 @@ Reduces model precision to save memory and speed up training.
 
 ### FP16 (Half Precision)
 - From 32-bit to 16-bit floats
-![Quantization Types Placeholder](./images/bf16.webp)
+![Quantization Types Placeholder](./image/bf16.webp)
 ### BF16 (bfloat16)
 - Truncated version of FP32 to preserve range with reduced precision
-![Quantization Types Placeholder](./images/fp16.webp)
+![Quantization Types Placeholder](./image/fp16.webp)
 ---
 
 ## Fine-Tuning Parameters
